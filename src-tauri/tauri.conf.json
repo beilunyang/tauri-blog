@@ -7,8 +7,8 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "悖论的技术小屋",
-    "version": "0.1.0"
+    "productName": "The technology house of Paradox",
+    "version": "0.0.0"
   },
   "tauri": {
     "allowlist": {
@@ -46,6 +46,9 @@
       "shortDescription": "",
       "targets": "all",
       "windows": {
+        "wix": {
+          "language": "zh-CN"
+        },
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
         "timestampUrl": ""
@@ -55,7 +58,12 @@
       "csp": null
     },
     "updater": {
-      "active": false
+      "active": true,
+      "dialog": true,
+      "endpoints": [
+        "https://beilunyang.github.io/tauri-blog/install.json"
+      ],
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEUyNDcyMzBBNkRCNDNENTYKUldSV1BiUnRDaU5INHFtZENSbTFzUnpJUE05ZnRWNDlPS3NsTXlUWnliajFFUVFuSlkzWjU3T3IK"
     },
     "windows": [
       {

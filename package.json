@@ -5,9 +5,13 @@
   "type": "module",
   "scripts": {
     "dev": "tauri dev",
-    "build": "tauri build"
+    "build": "tauri build",
+    "updater": "tr updater",
+    "release": "tr release --git",
+    "tr": "tr"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^1.1.0"
+    "@tauri-apps/cli": "^1.1.0",
+    "@tauri-release/cli": "^0.2.3"
   }
 }
