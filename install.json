@@ -1,0 +1,35 @@
+{
+  "version": "v0.1.0",
+  "notes": "Initial Release",
+  "pub_date": "2022-12-12T13:56:48.548Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1BiUnRDaU5INHB1Rk5hZkZHRmpwa05OekE5MWNDbkMxdnJaTnZLQTBHUUdRcnlxWDA2NktmV3lXOUgrT09YcmFDOFFUcWRudDNsZThFczc2R1RWaHE2WWZiaGNqYUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwODUzMTcwCWZpbGU6VGhlIHRlY2hub2xvZ3kgaG91c2Ugb2YgUGFyYWRveF8wLjEuMF94NjRfemgtQ04ubXNpLnppcAphTGQvelh4Tm8xTmFjUHN4VHlITW5FNUg0bmpOanNza2JRSXdCemZSRUJlSHNDL2dXTjBuVG5iZUE1Zm9RRzFKcW1kYlkvNzVMK3EwWGloZmN0bTNEQT09Cg==",
+      "url": "https://github.com/beilunyang/tauri-blog/releases/download/v0.1.0/The.technology.house.of.Paradox_0.1.0_x64_zh-CN.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1BiUnRDaU5INHFNRjlybEhKTmlhUHJVcis3b1gydlhXWHFZendQMTlyTHk0OG4yZmNEYXBpRzVTbGVkWUExNFBIOE41S2c1a0p1K0pIRDVmMlJ4cTRPR3lOVDhXUGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwODUzMDUzCWZpbGU6dGhlLXRlY2hub2xvZ3ktaG91c2Utb2YtcGFyYWRveF8wLjEuMF9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKZWUrTm4xK0FtQ0ROaHk2bmFGUHZLOWVKWUEzZkZUTEFqUVBBd2JRQnpab1ZCM2JnTEpXak1ENmlHd0JvSHlmWTVtNmNiR3huTkU4SU9jSVp0S0l3QWc9PQo=",
+      "url": "https://github.com/beilunyang/tauri-blog/releases/download/v0.1.0/the-technology-house-of-paradox_0.1.0_amd64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1BiUnRDaU5ING1GZGMxVE9BUXdONitQNmdhNFBhZ3FzcUE1M2xtb094TVgyeHBvTFR6UHBhVG5xdUVCeEFLZTRhbVJOTC80RzIzK1Q5UmNLbzVmUmE4T0Frc3RjQlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwODUzMzcyCWZpbGU6VGhlIHRlY2hub2xvZ3kgaG91c2Ugb2YgUGFyYWRveC5hcHAudGFyLmd6ClgzL24wa3JnY3JWRFdlb2NoaTdNNmhTYkFTUlpSMkRnbmY5SEZlQWhwcWlqNFdhazNYeHF4WnZqV2VOYVl3NzBTMG9SNzkva1FzbDhXd1R3VjVZK0N3PT0K",
+      "url": "https://github.com/beilunyang/tauri-blog/releases/download/v0.1.0/The.technology.house.of.Paradox.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1BiUnRDaU5ING1GZGMxVE9BUXdONitQNmdhNFBhZ3FzcUE1M2xtb094TVgyeHBvTFR6UHBhVG5xdUVCeEFLZTRhbVJOTC80RzIzK1Q5UmNLbzVmUmE4T0Frc3RjQlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwODUzMzcyCWZpbGU6VGhlIHRlY2hub2xvZ3kgaG91c2Ugb2YgUGFyYWRveC5hcHAudGFyLmd6ClgzL24wa3JnY3JWRFdlb2NoaTdNNmhTYkFTUlpSMkRnbmY5SEZlQWhwcWlqNFdhazNYeHF4WnZqV2VOYVl3NzBTMG9SNzkva1FzbDhXd1R3VjVZK0N3PT0K",
+      "url": "https://github.com/beilunyang/tauri-blog/releases/download/v0.1.0/The.technology.house.of.Paradox.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1BiUnRDaU5ING1GZGMxVE9BUXdONitQNmdhNFBhZ3FzcUE1M2xtb094TVgyeHBvTFR6UHBhVG5xdUVCeEFLZTRhbVJOTC80RzIzK1Q5UmNLbzVmUmE4T0Frc3RjQlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwODUzMzcyCWZpbGU6VGhlIHRlY2hub2xvZ3kgaG91c2Ugb2YgUGFyYWRveC5hcHAudGFyLmd6ClgzL24wa3JnY3JWRFdlb2NoaTdNNmhTYkFTUlpSMkRnbmY5SEZlQWhwcWlqNFdhazNYeHF4WnZqV2VOYVl3NzBTMG9SNzkva1FzbDhXd1R3VjVZK0N3PT0K",
+      "url": "https://github.com/beilunyang/tauri-blog/releases/download/v0.1.0/The.technology.house.of.Paradox.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1BiUnRDaU5INHFNRjlybEhKTmlhUHJVcis3b1gydlhXWHFZendQMTlyTHk0OG4yZmNEYXBpRzVTbGVkWUExNFBIOE41S2c1a0p1K0pIRDVmMlJ4cTRPR3lOVDhXUGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwODUzMDUzCWZpbGU6dGhlLXRlY2hub2xvZ3ktaG91c2Utb2YtcGFyYWRveF8wLjEuMF9hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKZWUrTm4xK0FtQ0ROaHk2bmFGUHZLOWVKWUEzZkZUTEFqUVBBd2JRQnpab1ZCM2JnTEpXak1ENmlHd0JvSHlmWTVtNmNiR3huTkU4SU9jSVp0S0l3QWc9PQo=",
+      "url": "https://github.com/beilunyang/tauri-blog/releases/download/v0.1.0/the-technology-house-of-paradox_0.1.0_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV1BiUnRDaU5INHB1Rk5hZkZHRmpwa05OekE5MWNDbkMxdnJaTnZLQTBHUUdRcnlxWDA2NktmV3lXOUgrT09YcmFDOFFUcWRudDNsZThFczc2R1RWaHE2WWZiaGNqYUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjcwODUzMTcwCWZpbGU6VGhlIHRlY2hub2xvZ3kgaG91c2Ugb2YgUGFyYWRveF8wLjEuMF94NjRfemgtQ04ubXNpLnppcAphTGQvelh4Tm8xTmFjUHN4VHlITW5FNUg0bmpOanNza2JRSXdCemZSRUJlSHNDL2dXTjBuVG5iZUE1Zm9RRzFKcW1kYlkvNzVMK3EwWGloZmN0bTNEQT09Cg==",
+      "url": "https://github.com/beilunyang/tauri-blog/releases/download/v0.1.0/The.technology.house.of.Paradox_0.1.0_x64_zh-CN.msi.zip"
+    }
+  }
+}
